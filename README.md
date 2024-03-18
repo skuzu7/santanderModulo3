@@ -15,8 +15,4 @@ git clone https://github.com/skuzu7/santanderModulo3.git
 node Bank.js
 ```
 
-## Contribuições
-Contribuições são bem-vindas! Para contribuir, crie um issue ou pull request no GitHub.
 
-## Licença
-Distribuído sob a licença MIT.
