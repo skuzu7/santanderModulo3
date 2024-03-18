@@ -11,9 +11,8 @@ Sistema em JavaScript para gerenciar contas bancárias, simulando operações co
 
 ## Início Rápido
 ```bash
-git clone https://github.com/<username>/sistema-gerenciamento-bancario-simples.git
-cd sistema-gerenciamento-bancario-simples
-# Abra o projeto em seu editor de código para explorar ou executar
+git clone https://github.com/skuzu7/santanderModulo3.git
+node Bank.js
 ```
 
 ## Contribuições
